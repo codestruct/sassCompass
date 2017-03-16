@@ -1,3 +1,3 @@
 function other() {
-	return "they are stupid.";
+	return "It is not working.";
 }

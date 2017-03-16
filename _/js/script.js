@@ -1,1 +1,1 @@
-function other(){return"they are stupid."}function test(){return"Hi there!"}
+function other(){return"It is not working."}function test(){return"Hi there!"}

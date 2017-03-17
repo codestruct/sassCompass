@@ -9,16 +9,6 @@
 			border-bottom: 1px dotted $lightgray;
 			margin-bottom: 5px;
 		} // h3
-
-		img {
-			@include border-radius; 
-			width: 120px;
-			float: left;
-			margin: {
-				right: 10px;
-				bottom: 10px;
-			} //margin
-		} //img
 	} //artist
 } //speakers
 

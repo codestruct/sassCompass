@@ -1,0 +1,43 @@
+//layout --------------------------------------/
+.layout {
+	padding: 3%;
+}
+
+
+//header -------------------------------------/
+header {
+	img {
+		width: 95%;
+		margin: 2.5%;
+		max-width: 500px;
+		margin-bottom: 0; 
+	}
+}
+
+//navigation ---------------------------------/
+.navigation {
+	background: lighten($darkblue, 15);
+	ul.nav {
+		li {
+			i {
+				color: lighten($yellow, 20);
+				padding-right: .5em;
+			}
+			a {
+				display: block;
+				text-decoration: none;
+				padding: 5px 10px;
+				color: $paleryellow;
+			} //a
+		} //li
+	} //ul.nav
+} //navigation
+
+//footer -------------------------------------/
+footer {
+	color: $paleyellow;
+	background: lighten($darkblue, 3);
+	margin-top: 20px;
+	padding-top: 20px;
+	padding-bottom: 100px;
+}

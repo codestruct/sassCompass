@@ -28,6 +28,7 @@
 	@include clearfix;
 
 	img {
+		@include border-radius;
 		width: 30%;
 		max-width: 130px;
 		float: left;
